@@ -33,5 +33,4 @@ https://www.s.id/feristyle
 
 ## Contacts Me
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon2)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-blue?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6288225349583?text=dari+github)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/smart.danie.3)
