@@ -7,6 +7,13 @@
 ```ruby
 print('Hello World')
 ```
+```php
+public MyClass {
+    public static void main(String [] args) {
+       System.out.println("Hello Tod");
+    }
+} 
+```
 <p align="center">
   Code By <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
 </p>
