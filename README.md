@@ -34,6 +34,8 @@ public MyClass {
     </a>
 </p>
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=crackFB&layout=compact&theme=ligth)](https://github.com/CyberCarboon2/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=botFB&layout=compact&theme=ligth)](https://github.com/KasRoudra/github-stats-card)
 ## WEB FOR LEARNING
 <img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/website.jpg">
 https://www.s.id/feristyle
