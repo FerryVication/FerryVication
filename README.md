@@ -22,6 +22,13 @@ public MyClass {
 <li> 🕌 <i> MUSLIM</i></li>
 <li> 💻 <i> LEARN PYTHON</i></li><br>
 
+<h2>:bulb: The Language I Learned</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+</br></br>
+
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=CyberCarboon2&layout=compact&theme=buefy)](https://github.com/CyberCarboon2/CyberCarboon2)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=CyberCarboon2&show_icons=true&theme=bear](https://github-readme-stats.vercel.app/api?username=CyberCarboon2&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCarboon2&layout=compact&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400>
@@ -52,3 +59,6 @@ Participation Certificate
 </li>
 </ul>
 <img src="https://github.com/CyberCarboon2/FileServer/blob/main/sfd.jpg"/>
+
+## ⭐⭐⭐⭐⭐
+<img src="https://raw.githubusercontent.com/Carol42/Carol42/output/github-contribution-grid-snake.svg"/>
