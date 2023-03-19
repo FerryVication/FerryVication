@@ -39,8 +39,8 @@ public MyClass {
     </a>
 </p>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=crackFB&layout=compact&theme=ligth)](https://github.com/CyberCarboon2/crackFB)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=botFB&layout=compact&theme=ligth)](https://github.com/CyberCarboon2/botFB)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=crackFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/crackFB)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=botFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/botFB)
 ## WEB FOR LEARNING
 <img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/website.jpg">
 
