@@ -44,10 +44,7 @@ public MyClass {
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=crackFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/crackFB)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=botFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/botFB)
-## WEB FOR LEARNING
-<img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/website.jpg">
 
-[HERE](https://s.id/feristyle)
 
 ## Contacts Me
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon2)
