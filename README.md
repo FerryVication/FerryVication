@@ -27,8 +27,7 @@ public MyClass {
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 </br></br>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=CyberCarboon2&layout=compact&type=donut&theme=dark)](https://github.com/CyberCarboon2)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCarboon2&show_icons=true&title_color=007cedtext_color=36ed00&border_color=6730f3e6&bg_color=000000f2&border_radius=20" alt="stats">
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=CyberCarboon2&layout=compact&theme=dark)](https://github.com/CyberCarboon2/CyberCarboon2)
 
