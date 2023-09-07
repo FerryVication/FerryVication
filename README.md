@@ -42,7 +42,7 @@ public MyClass {
 </p>
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=crackFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/crackFB)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=botFB&layout=compact&theme=dark)](https://github.com/CyberCarboon2/botFB)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CyberCarboon2&repo=verbotx&layout=compact&theme=dark)](https://github.com/CyberCarboon2/verbotx)
 
 
 ## Contacts Me
