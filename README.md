@@ -42,7 +42,7 @@ public MyClass {
 </p>
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=crackFB&layout=compact&theme=dark)](https://github.com/FerryVication/crackFB)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=verbotx&layout=compact&theme=dark)](https://github.com/CyberCarboon2/verbotx)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=verbotx&layout=compact&theme=dark)](https://github.com/FerryVication/verbotx)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=Harvester&layout=compact&theme=dark)](https://github.com/FerryVication/Harvester)
 
 
