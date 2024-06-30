@@ -62,5 +62,5 @@ public MyClass {
 ## PARTICIPATION
 <details>
   <summary>Certificate</summary>
-  <img src="https://github.com/FerryVication/blob/main/sfd.jpg" alt="Certificate">
+  <img src="https://raw.githubusercontent.com/FerryVication/FileServer/main/sfd.jpg" alt="Certificate">
 </details>
