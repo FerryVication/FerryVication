@@ -60,9 +60,7 @@ public MyClass {
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/smart.danie.3)
 
 ## PARTICIPATION
-<ul>
-<li>
-Participation Certificate
-</li>
-</ul>
-<img src="https://github.com/CyberCarboon2/FileServer/blob/main/sfd.jpg"/>
+<details>
+  <summary>Certificate</summary>
+  <img src="https://github.com/FerryVication/blob/main/sfd.jpg" alt="Certificate">
+</details>
