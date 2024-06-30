@@ -20,7 +20,9 @@ public MyClass {
 <li> 🕌 <i> MUSLIM</i></li>
 <li> 💻 <i> LEARN PYTHON</i></li><br>
 
-<h2>:bulb: The Language I Learned</h2>
+<h2>:bulb: What The Language I Learned</h2>
+<code><img title="Node JS" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-line-wordmark.svg"/></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ubuntu/ubuntu-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
