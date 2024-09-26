@@ -38,10 +38,10 @@ public MyClass {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryVication&show_icons=true&title_color=007cedtext_color=36ed00&border_color=6730f3e6&bg_color=000000f2&border_radius=20" alt="stats">
 </center>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=FerryVication&layout=compact&theme=dark)](https://github.com/CyberCarboon2/CyberCarboon2)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=FerryVication&layout=compact&theme=dark)](https://github.com/FerryVication)
 
 
-<br><p align='center'><img src="https://komarev.com/ghpvc/?username=FerryVication&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon2" />
+<br><p align='center'><img src="https://komarev.com/ghpvc/?username=FerryVication&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Feri Pratama" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=FerryVication">
 <p align="center">
