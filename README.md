@@ -42,13 +42,6 @@ public MyClass {
 
 
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=FerryVication&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Feri Pratama" />
-<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=FerryVication">
-<p align="center">
-    <a href="https://github.com/FerryVication/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CyberCarboon2 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FerryVication&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=crackFB&layout=compact&theme=dark)](https://github.com/FerryVication/crackFB)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=FerryVication&repo=verbotx&layout=compact&theme=dark)](https://github.com/FerryVication/verbotx)
